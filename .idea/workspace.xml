@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="" />
+    <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-01-max_of_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-02-wich_biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-03-max_of3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyneng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyneng.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../coursera-python" />
   </component>
   <component name="ProjectId" id="1ZtHZNjeyhHlzbABqWTiJK1CrPq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,6 +37,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="week02-03-max_of3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="coursera-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../coursera-python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-03-max_of3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.week02-03-max_of3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,13 +77,45 @@
       <option name="presentableId" value="Default" />
       <updated>1585651524796</updated>
     </task>
+    <task id="LOCAL-00001" summary="add test.txt">
+      <created>1585657621329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585657621329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add test.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test.txt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="583" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585657541724">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="583" height="388" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585657541724" />
+    <state x="1667" y="997" width="777" height="845" key="CommitChangelistDialog2" timestamp="1585657621049">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state x="1667" y="997" width="777" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585657621049" />
+    <state width="1694" height="187" key="GridCell.Tab.0.bottom" timestamp="1585663627178">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state width="1694" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585663627178" />
+    <state width="1694" height="187" key="GridCell.Tab.0.center" timestamp="1585663627178">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state width="1694" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585663627178" />
+    <state width="1694" height="187" key="GridCell.Tab.0.left" timestamp="1585663627177">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state width="1694" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585663627177" />
+    <state width="1694" height="187" key="GridCell.Tab.0.right" timestamp="1585663627178">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state width="1694" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585663627178" />
     <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1585657487018">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
