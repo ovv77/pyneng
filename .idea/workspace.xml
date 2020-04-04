@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-37-second_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-38-number_of_max.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../coursera-python/week02-00-tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-00-tmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-27-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-27-numper_power_of2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-28-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-28-min_power_of2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-29-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-29-jog.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-30-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-30-max_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-31-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-31-Sum_Squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-32-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-32-sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-32-sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-32-sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-33-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-33-sum_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-34-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-34-everage_of_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-35-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-35-even_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-36-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-36-inc_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-37-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-39-Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-38-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-40-N_Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-39-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-40-.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +45,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.week02-00-tmp">
-    <configuration name="week02-00-tmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.week02-40-N_Fibonacci">
+    <configuration name="week02-36-inc_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-00-tmp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-36-inc_sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-29-jog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="week02-37-second_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-29-jog.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-37-second_max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-30-max_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="week02-38-number_of_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-30-max_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-38-number_of_max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-31-Sum_Squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="week02-39-Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-31-Sum_Squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-39-Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-32-sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="week02-40-N_Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-32-sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-40-N_Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.week02-00-tmp" />
-        <item itemvalue="Python.week02-32-sequence" />
-        <item itemvalue="Python.week02-31-Sum_Squares" />
-        <item itemvalue="Python.week02-30-max_number" />
-        <item itemvalue="Python.week02-29-jog" />
+        <item itemvalue="Python.week02-40-N_Fibonacci" />
+        <item itemvalue="Python.week02-39-Fibonacci" />
+        <item itemvalue="Python.week02-38-number_of_max" />
+        <item itemvalue="Python.week02-37-second_max" />
+        <item itemvalue="Python.week02-36-inc_sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585985712892</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add more">
+      <created>1585998581566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585998581566</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,40 +224,41 @@
     <MESSAGE value="Add answers for week02, task to 26" />
     <MESSAGE value="Add empty files" />
     <MESSAGE value="Add 02-26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 02-26" />
+    <MESSAGE value="Add more" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1585985712542">
+    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1586020397129">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585985712542" />
-    <state width="1302" height="188" key="GridCell.Tab.0.bottom" timestamp="1585998483936">
+    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020397129" />
+    <state width="1331" height="199" key="GridCell.Tab.0.bottom" timestamp="1586020144040">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732185" />
-    <state width="1302" height="188" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585998483936" />
+    <state width="1331" height="199" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
     <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1302" height="188" key="GridCell.Tab.0.center" timestamp="1585998483936">
+    <state width="1331" height="199" key="GridCell.Tab.0.center" timestamp="1586020144040">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732184" />
-    <state width="1302" height="188" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585998483936" />
+    <state width="1331" height="199" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
     <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1302" height="188" key="GridCell.Tab.0.left" timestamp="1585998483936">
+    <state width="1331" height="199" key="GridCell.Tab.0.left" timestamp="1586020144040">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732184" />
-    <state width="1302" height="188" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585998483936" />
+    <state width="1331" height="199" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
     <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1302" height="188" key="GridCell.Tab.0.right" timestamp="1585998483936">
+    <state width="1331" height="199" key="GridCell.Tab.0.right" timestamp="1586020144040">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732185" />
-    <state width="1302" height="188" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585998483936" />
+    <state width="1331" height="199" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
     <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
     <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
@@ -267,9 +280,9 @@
     </state>
     <state width="1694" height="229" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1343" height="167" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585744857854" />
-    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1585985563855">
+    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1586005953450">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585985563855" />
+    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586005953450" />
   </component>
 </project>
