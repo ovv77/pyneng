@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-37-second_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-38-number_of_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-00-tmp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-00-tmp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-32-sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-32-sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-33-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-33-sum_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-34-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-34-everage_of_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-35-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-35-even_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-36-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-36-inc_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-37-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-39-Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-38-.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-40-N_Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-39-.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-40-.py" beforeDir="false" />
+    <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="rem workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,8 +202,26 @@
       <option name="project" value="LOCAL" />
       <updated>1585998581566</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add tasks up to 40th">
+      <created>1586020397693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586020397693</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -225,40 +231,45 @@
     <MESSAGE value="Add empty files" />
     <MESSAGE value="Add 02-26" />
     <MESSAGE value="Add more" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more" />
+    <MESSAGE value="Add tasks up to 40th" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tasks up to 40th" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1586020397129">
+    <state x="1569" y="1073" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1586020925621">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020397129" />
-    <state width="1331" height="199" key="GridCell.Tab.0.bottom" timestamp="1586020144040">
+    <state x="1569" y="1073" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020925621" />
+    <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog" timestamp="1586020828325">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020828325" />
+    <state width="1094" height="271" key="GridCell.Tab.0.bottom" timestamp="1586020456683">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732185" />
-    <state width="1331" height="199" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
+    <state width="1094" height="271" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020456683" />
     <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1331" height="199" key="GridCell.Tab.0.center" timestamp="1586020144040">
+    <state width="1094" height="271" key="GridCell.Tab.0.center" timestamp="1586020456683">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732184" />
-    <state width="1331" height="199" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
+    <state width="1094" height="271" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020456683" />
     <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1331" height="199" key="GridCell.Tab.0.left" timestamp="1586020144040">
+    <state width="1094" height="271" key="GridCell.Tab.0.left" timestamp="1586020456683">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732184" />
-    <state width="1331" height="199" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
+    <state width="1094" height="271" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020456683" />
     <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1331" height="199" key="GridCell.Tab.0.right" timestamp="1586020144040">
+    <state width="1094" height="271" key="GridCell.Tab.0.right" timestamp="1586020456683">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732185" />
-    <state width="1331" height="199" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020144040" />
+    <state width="1094" height="271" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020456683" />
     <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
     <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
