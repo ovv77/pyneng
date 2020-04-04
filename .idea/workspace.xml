@@ -2,30 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-04-leap year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-05-chess_king.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-06-chocolate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-07-flats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-08-chess_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-09-cow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-10-sign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-11-coordinates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-12-checkers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-13-even_odd_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-13-triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-14-match_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-15-sort_3numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-16-prisoner_of_dIf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-17-boxes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-18-storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-19-ice_cream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-20-equation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-24-squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-25-min_divisor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-02-wich_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-02-wich_biggest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
@@ -197,70 +174,78 @@
       <option name="project" value="LOCAL" />
       <updated>1585664711909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add answers for week02, task to 26">
+      <created>1585933207757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585933207757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add test.txt" />
     <MESSAGE value="Add answers for week02, task 01-03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add answers for week02, task 01-03" />
+    <MESSAGE value="Add answers for week02, task to 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add answers for week02, task to 26" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1585664711632">
+    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1585933207335">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585664711632" />
-    <state width="1694" height="188" key="GridCell.Tab.0.bottom" timestamp="1585933055457">
+    <state x="1778" y="1036" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933207335" />
+    <state width="1694" height="229" key="GridCell.Tab.0.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732185" />
-    <state width="1694" height="188" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933055457" />
+    <state width="1694" height="229" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1694" height="188" key="GridCell.Tab.0.center" timestamp="1585933055457">
+    <state width="1694" height="229" key="GridCell.Tab.0.center" timestamp="1585933222808">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732184" />
-    <state width="1694" height="188" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933055457" />
+    <state width="1694" height="229" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222808" />
     <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1694" height="188" key="GridCell.Tab.0.left" timestamp="1585933055457">
+    <state width="1694" height="229" key="GridCell.Tab.0.left" timestamp="1585933222808">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732184" />
-    <state width="1694" height="188" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933055456" />
+    <state width="1694" height="229" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222808" />
     <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1694" height="188" key="GridCell.Tab.0.right" timestamp="1585933055457">
+    <state width="1694" height="229" key="GridCell.Tab.0.right" timestamp="1585933222808">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1008" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1585813732185" />
-    <state width="1694" height="188" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933055457" />
+    <state width="1694" height="229" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222808" />
     <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585905296359">
+    <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state width="1694" height="229" key="GridCell.Tab.1.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585905296359" />
+    <state width="1694" height="229" key="GridCell.Tab.1.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1343" height="167" key="GridCell.Tab.1.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585744857854" />
-    <state width="1694" height="229" key="GridCell.Tab.1.center" timestamp="1585905296359">
+    <state width="1694" height="229" key="GridCell.Tab.1.center" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state width="1694" height="229" key="GridCell.Tab.1.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585905296359" />
+    <state width="1694" height="229" key="GridCell.Tab.1.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1343" height="167" key="GridCell.Tab.1.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585744857854" />
-    <state width="1694" height="229" key="GridCell.Tab.1.left" timestamp="1585905296358">
+    <state width="1694" height="229" key="GridCell.Tab.1.left" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state width="1694" height="229" key="GridCell.Tab.1.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585905296358" />
+    <state width="1694" height="229" key="GridCell.Tab.1.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1343" height="167" key="GridCell.Tab.1.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585744857854" />
-    <state width="1694" height="229" key="GridCell.Tab.1.right" timestamp="1585905296359">
+    <state width="1694" height="229" key="GridCell.Tab.1.right" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state width="1694" height="229" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585905296359" />
+    <state width="1694" height="229" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1343" height="167" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585744857854" />
-    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1585904773570">
+    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1585985563855">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585904773570" />
+    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585985563855" />
   </component>
 </project>
