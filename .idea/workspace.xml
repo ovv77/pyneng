@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-41-dev_minus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-42-replace_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-43-palindromes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-44-max_equal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-45-monotone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../coursera-python/week02-46-local_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-21.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-22-matches.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +36,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.week02-46-local_max">
-    <configuration name="week02-42-replace_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.week02-22-matches">
+    <configuration name="week02-21cutlets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-42-replace_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-43-palindromes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="week02-22-matches" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-43-palindromes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-22-matches.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.week02-22-matches" />
+        <item itemvalue="Python.week02-21cutlets" />
         <item itemvalue="Python.week02-46-local_max" />
         <item itemvalue="Python.week02-45-monotone" />
         <item itemvalue="Python.week02-44-max_equal" />
-        <item itemvalue="Python.week02-43-palindromes" />
-        <item itemvalue="Python.week02-42-replace_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586020941390</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add up to 46 task">
+      <created>1586099779941</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586099779941</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,29 +268,29 @@
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020828325" />
-    <state width="1094" height="368" key="GridCell.Tab.0.bottom" timestamp="1586099516894">
+    <state width="1326" height="154" key="GridCell.Tab.0.bottom" timestamp="1586113020493">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1094" height="368" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586099516894" />
+    <state width="1326" height="154" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
     <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1094" height="368" key="GridCell.Tab.0.center" timestamp="1586099516893">
+    <state width="1326" height="154" key="GridCell.Tab.0.center" timestamp="1586113020493">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1094" height="368" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586099516893" />
+    <state width="1326" height="154" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
     <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1094" height="368" key="GridCell.Tab.0.left" timestamp="1586099516893">
+    <state width="1326" height="154" key="GridCell.Tab.0.left" timestamp="1586113020493">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1094" height="368" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586099516893" />
+    <state width="1326" height="154" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
     <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1094" height="368" key="GridCell.Tab.0.right" timestamp="1586099516893">
+    <state width="1326" height="154" key="GridCell.Tab.0.right" timestamp="1586113020493">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1094" height="368" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586099516893" />
+    <state width="1326" height="154" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
     <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
     <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
