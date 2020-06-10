@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../coursera-python/.idea/coursera-python.iml" filepath="$PROJECT_DIR$/../coursera-python/.idea/coursera-python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pyneng.iml" filepath="$PROJECT_DIR$/.idea/pyneng.iml" />
     </modules>
   </component>

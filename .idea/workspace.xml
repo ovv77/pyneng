@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../coursera-python/week02-22.py" beforeDir="false" afterPath="$PROJECT_DIR$/../coursera-python/week02-22-matches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyneng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyneng.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../coursera-python" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZtHZNjeyhHlzbABqWTiJK1CrPq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -28,16 +35,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.week02-22-matches">
-    <configuration name="week02-21cutlets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.task_4_6">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../coursera-python" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-21cutlets.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,19 +66,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-22-matches" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="coursera-python" />
+    <configuration name="task_4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../coursera-python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-22-matches.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,19 +87,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-44-max_equal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="coursera-python" />
+    <configuration name="task_4_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../coursera-python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-44-max_equal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,19 +108,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-45-monotone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="coursera-python" />
+    <configuration name="task_4_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../coursera-python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-45-monotone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,34 +129,98 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="week02-46-local_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="coursera-python" />
+    <configuration name="task_4_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../coursera-python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../coursera-python/week02-46-local_max.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_4_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="coursera-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="coursera-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="coursera-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.week02-22-matches" />
-        <item itemvalue="Python.week02-21cutlets" />
-        <item itemvalue="Python.week02-46-local_max" />
-        <item itemvalue="Python.week02-45-monotone" />
-        <item itemvalue="Python.week02-44-max_equal" />
+        <item itemvalue="Python.task_4_6" />
+        <item itemvalue="Python.task_4_5" />
+        <item itemvalue="Python.task_4_4" />
+        <item itemvalue="Python.task_4_3" />
+        <item itemvalue="Python.task_4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586099779941</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Осталось решить 2 задачи: 22 и 23">
+      <created>1586113405328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586113405328</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,13 +313,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -253,44 +331,49 @@
     <MESSAGE value="Add tasks up to 40th" />
     <MESSAGE value="rem workspace" />
     <MESSAGE value="add up to 46 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add up to 46 task" />
+    <MESSAGE value="Осталось решить 2 задачи: 22 и 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Осталось решить 2 задачи: 22 и 23" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1570" y="1019" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1586099779274">
+    <state x="1829" y="1035" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1586113405036">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1570" y="1019" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586099779274" />
+    <state x="1829" y="1035" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113405036" />
     <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog" timestamp="1586020828325">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586020828325" />
-    <state width="1326" height="154" key="GridCell.Tab.0.bottom" timestamp="1586113020493">
+    <state x="1832" y="1090" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586178977311">
+      <screen x="1080" y="840" width="1920" height="1080" />
+    </state>
+    <state x="1832" y="1090" width="424" height="482" key="FileChooserDialogImpl/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586178977311" />
+    <state width="1401" height="200" key="GridCell.Tab.0.bottom" timestamp="1591802487867">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1326" height="154" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
+    <state width="1401" height="200" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487867" />
     <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1326" height="154" key="GridCell.Tab.0.center" timestamp="1586113020493">
+    <state width="1401" height="200" key="GridCell.Tab.0.center" timestamp="1591802487866">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1326" height="154" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
+    <state width="1401" height="200" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487866" />
     <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1326" height="154" key="GridCell.Tab.0.left" timestamp="1586113020493">
+    <state width="1401" height="200" key="GridCell.Tab.0.left" timestamp="1591802487866">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1326" height="154" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
+    <state width="1401" height="200" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487866" />
     <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1326" height="154" key="GridCell.Tab.0.right" timestamp="1586113020493">
+    <state width="1401" height="200" key="GridCell.Tab.0.right" timestamp="1591802487867">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1326" height="154" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113020493" />
+    <state width="1401" height="200" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487867" />
     <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
     <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
@@ -312,24 +395,13 @@
     </state>
     <state width="1694" height="229" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933222809" />
     <state width="1343" height="167" key="GridCell.Tab.1.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585744857854" />
-    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1586021056687">
+    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog" timestamp="1586178925508">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586021056687" />
+    <state x="1716" y="1248" key="com.intellij.ide.util.TipDialog/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586178925507" />
     <state x="2003" y="1265" width="454" height="158" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586021114832">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="2003" y="1265" width="454" height="158" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586021114832" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../coursera-python/week02-43-palindromes.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
