@@ -19,3 +19,12 @@
 """
 
 ip = "192.168.3.1"
+
+print('{:8} {:8} {:8} {:8}'.format(*ip.split('.')))
+print('{:08b} {:08b} {:08b} {:08b}'.format(*map(int, ip.split('.'))))
+
+
+# если без map то с помощью f строк
+l = ip.split('.')
+print(f"{l[0]:8} {l[1]:8} {l[2]:8} {l[3]:8} ")
+print(f"{int(l[0]):08b} {int(l[1]):08b} {int(l[2]):08b} {int(l[3]):08b} ")

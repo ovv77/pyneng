@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyneng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyneng.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04_data_structures/task_4_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_data_structures/task_4_8.py" afterDir="false" />
@@ -44,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.task_4_6">
+  <component name="RunManager" selected="Python.task_4_8">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,48 +51,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_4_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyneng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_4_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyneng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,6 +122,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_4_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_4_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_data_structures/task_4_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_4_8" />
+        <item itemvalue="Python.task_4_7" />
         <item itemvalue="Python.task_4_6" />
         <item itemvalue="Python.task_4_5" />
         <item itemvalue="Python.task_4_4" />
-        <item itemvalue="Python.task_4_3" />
-        <item itemvalue="Python.task_4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586113405328</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="решил задачи до 4_5">
+      <created>1591802885077</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591802885077</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,17 +332,18 @@
     <MESSAGE value="rem workspace" />
     <MESSAGE value="add up to 46 task" />
     <MESSAGE value="Осталось решить 2 задачи: 22 и 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Осталось решить 2 задачи: 22 и 23" />
+    <MESSAGE value="решил задачи до 4_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="решил задачи до 4_5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1829" y="1035" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1586113405036">
+    <state x="1776" y="1050" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1591802884818">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1829" y="1035" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586113405036" />
+    <state x="1776" y="1050" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802884818" />
     <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog" timestamp="1586020828325">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
@@ -351,29 +352,29 @@
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1832" y="1090" width="424" height="482" key="FileChooserDialogImpl/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586178977311" />
-    <state width="1401" height="200" key="GridCell.Tab.0.bottom" timestamp="1591802487867">
+    <state width="1530" height="200" key="GridCell.Tab.0.bottom" timestamp="1591880045149">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1401" height="200" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487867" />
+    <state width="1530" height="200" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591880045149" />
     <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1401" height="200" key="GridCell.Tab.0.center" timestamp="1591802487866">
+    <state width="1530" height="200" key="GridCell.Tab.0.center" timestamp="1591880045149">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1401" height="200" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487866" />
+    <state width="1530" height="200" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591880045149" />
     <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1401" height="200" key="GridCell.Tab.0.left" timestamp="1591802487866">
+    <state width="1530" height="200" key="GridCell.Tab.0.left" timestamp="1591880045149">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1401" height="200" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487866" />
+    <state width="1530" height="200" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591880045149" />
     <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1401" height="200" key="GridCell.Tab.0.right" timestamp="1591802487867">
+    <state width="1530" height="200" key="GridCell.Tab.0.right" timestamp="1591880045149">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1401" height="200" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591802487867" />
+    <state width="1530" height="200" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591880045149" />
     <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
     <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />

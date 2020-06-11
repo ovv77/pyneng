@@ -10,3 +10,15 @@
 """
 
 mac = "AAAA:BBBB:CCCC"
+
+# оптимально, но используется map
+print(''.join(map(lambda x: bin(int(x, 16))[2:], mac.split(':'))))
+
+# если без map то с помощью f строк
+a, b, c = mac.split(':')
+print(f"{bin(int(a, 16))[2:]}{bin(int(b, 16))[2:]}{bin(int(c, 16))[2:]}")
+
+# С помощью format:
+tmpl = '{:b}{:b}{:b}'
+a, b, c = mac.split(':')
+print(tmpl.format(int(a, 16), int(b, 16), int(c, 16)))
