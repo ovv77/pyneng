@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/access_template.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_1a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_1b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_1c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_2a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_2b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_3a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_basic_scripts/task_5_2a.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_2a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_basic_scripts/task_5_2b.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_2b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_basic_scripts/task_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_basic_scripts/task_5_3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_basic_scripts/task_5_3a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.task_5_2">
+  <component name="RunManager" selected="Python.task_5_3a">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="coursera-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,69 +52,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_5_1b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyneng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_basic_scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_1b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_5_1c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyneng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_basic_scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_1c.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_5_1d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pyneng" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_basic_scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_1d.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,6 +94,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_2a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5_2b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_basic_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_2b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_basic_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_5_3a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyneng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_basic_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_basic_scripts/task_5_3a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_5_2" />
+        <item itemvalue="Python.task_5_3a" />
+        <item itemvalue="Python.task_5_3" />
+        <item itemvalue="Python.task_5_2b" />
         <item itemvalue="Python.task_5_2a" />
-        <item itemvalue="Python.task_5_1d" />
-        <item itemvalue="Python.task_5_1c" />
-        <item itemvalue="Python.task_5_1b" />
+        <item itemvalue="Python.task_5_2" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591880082524</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="решил до 5.2 включительно">
+      <created>1592309437114</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592309437114</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,17 +349,18 @@
     <MESSAGE value="Осталось решить 2 задачи: 22 и 23" />
     <MESSAGE value="решил задачи до 4_5" />
     <MESSAGE value="решил все задачи 4 раздела" />
-    <option name="LAST_COMMIT_MESSAGE" value="решил все задачи 4 раздела" />
+    <MESSAGE value="решил до 5.2 включительно" />
+    <option name="LAST_COMMIT_MESSAGE" value="решил до 5.2 включительно" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1776" y="1050" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1591880082396">
+    <state x="1776" y="1050" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1592309436856">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1776" y="1050" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1591880082396" />
+    <state x="1776" y="1050" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592309436856" />
     <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog" timestamp="1586020828325">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
@@ -368,30 +369,30 @@
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1832" y="1090" width="424" height="482" key="FileChooserDialogImpl/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1586178977311" />
-    <state width="1076" height="219" key="GridCell.Tab.0.bottom" timestamp="1592309268444">
+    <state width="1057" height="300" key="GridCell.Tab.0.bottom" timestamp="1592410050616">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1076" height="219" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592309268444" />
-    <state width="1270" height="187" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046378" />
-    <state width="1076" height="219" key="GridCell.Tab.0.center" timestamp="1592309268444">
+    <state width="1057" height="300" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592410050616" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1592315239585" />
+    <state width="1057" height="300" key="GridCell.Tab.0.center" timestamp="1592410050616">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1076" height="219" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592309268444" />
-    <state width="1270" height="187" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1076" height="219" key="GridCell.Tab.0.left" timestamp="1592309268444">
+    <state width="1057" height="300" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592410050616" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1592315239585" />
+    <state width="1057" height="300" key="GridCell.Tab.0.left" timestamp="1592410050616">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547243" />
-    <state width="1076" height="219" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592309268444" />
-    <state width="1270" height="187" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
-    <state width="1076" height="219" key="GridCell.Tab.0.right" timestamp="1592309268444">
+    <state width="1057" height="300" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592410050616" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1592315239585" />
+    <state width="1057" height="300" key="GridCell.Tab.0.right" timestamp="1592410050616">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state width="1094" height="226" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@0.0.1080.1920" timestamp="1586088547244" />
-    <state width="1076" height="219" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592309268444" />
-    <state width="1270" height="187" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1585835046377" />
+    <state width="1057" height="300" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1592410050616" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right/1080.840.1920.1080/0.0.1080.768@0.0.1080.768" timestamp="1592315239585" />
     <state width="1694" height="229" key="GridCell.Tab.1.bottom" timestamp="1585933222809">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
