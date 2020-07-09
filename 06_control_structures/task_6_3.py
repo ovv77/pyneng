@@ -32,7 +32,7 @@ access_template = [
     "switchport mode access",
     "switchport access vlan",
     "spanning-tree portfast",
-    "spanning-tree bpduguard enable",
+    "юspanning-tree bpduguard enable",
 ]
 
 trunk_template = [
@@ -49,5 +49,21 @@ for intf, vlan in access.items():
     for command in access_template:
         if command.endswith("access vlan"):
             print(" {} {}".format(command, vlan))
+        else:
+            print(" {}".format(command))
+
+for intf, vlan in trunk.items():
+    print("interface FastEthernet" + intf)
+    for command in trunk_template:
+        if command.endswith("vlan"):
+            if vlan[0] == 'add':
+                print(" {} {} {}".format(command, 'add', ','.join(vlan[1:])))
+            if vlan[0] == 'del':
+                print(" {} {} {}".format(command, 'remove', ','.join(vlan[1:])))
+            if vlan[0] == 'only':
+                print(" {} {}".format(command, ','.join(vlan[1:])))
+
+
+
         else:
             print(" {}".format(command))
