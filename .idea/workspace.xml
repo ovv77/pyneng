@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c337163c-9f34-4720-bfd6-a83c27f6aa59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/06_control_structures/task_6_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_control_structures/task_6_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -332,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594220822461</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Закончил раздел 6">
+      <created>1594288112685</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1594288112685</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,17 +370,18 @@
     <MESSAGE value="решил до 5.2 включительно" />
     <MESSAGE value="Закончил раздел 5" />
     <MESSAGE value="Решил до 6.2b  включительно" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решил до 6.2b  включительно" />
+    <MESSAGE value="Закончил раздел 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Закончил раздел 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585933128473">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
     <state x="1764" y="1226" width="606" height="386" key="#com.intellij.fileTypes.FileTypeChooser/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1585933128473" />
-    <state x="1721" y="904" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1594220822236">
+    <state x="1721" y="904" width="1055" height="845" key="CommitChangelistDialog2" timestamp="1594288112497">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>
-    <state x="1721" y="904" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1594220822236" />
+    <state x="1721" y="904" width="1055" height="845" key="CommitChangelistDialog2/1080.840.1920.1080/0.0.1080.1920@1080.840.1920.1080" timestamp="1594288112497" />
     <state x="1258" y="942" width="1536" height="892" key="DiffContextDialog" timestamp="1586020828325">
       <screen x="1080" y="840" width="1920" height="1080" />
     </state>

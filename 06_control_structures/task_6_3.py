@@ -62,8 +62,5 @@ for intf, vlan in trunk.items():
                 print(" {} {} {}".format(command, 'remove', ','.join(vlan[1:])))
             if vlan[0] == 'only':
                 print(" {} {}".format(command, ','.join(vlan[1:])))
-
-
-
         else:
             print(" {}".format(command))
